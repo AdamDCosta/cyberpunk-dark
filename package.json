@@ -1,0 +1,21 @@
+{
+  "name": "cyberpunk-dark",
+  "displayName": "cyberpunk-dark",
+  "description": "Minimal dark theme inspired by poimandres",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "cyberpunk-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk-dark-color-theme.json"
+      }
+    ]
+  }
+}
